@@ -1,0 +1,9 @@
+#Change the StaffChat to your liking!
+#
+prefix: "&eSTAFF "
+#
+chatcolour: "&f"
+#
+enable: "&b&lStaffchat Enabled!"
+#
+disable: "&b&lStaffchat Disabled!"

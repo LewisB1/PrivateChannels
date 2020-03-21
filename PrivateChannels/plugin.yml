@@ -1,0 +1,9 @@
+name: PrivateChannels
+version: 0.0.1
+description: A Private Channel plugin! - only supports staffchat currently.
+author: LewisB1
+main: lewis
+
+commands:
+  tsc:
+    description: toggles the staffchat!
